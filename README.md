@@ -5,7 +5,8 @@ Jogo de adivinhação desenvolvido em web I
 Projeto desenvolvido na disciplina de Desenvolvimento de Aplicações Web I.
 
 ## Integrantes
-- Isabelle Campos silva 
+- Isabelle Campos silva
+- Julia Da Costa Bernardo 
 
 ## Como jogar
 Digite uma letra e clique em **Tentar** (ou pressione **Enter**).
@@ -27,4 +28,5 @@ O objetivo é descobrir a palavra secreta antes de acabar as tentativas.
 - Envio por Enter (desafio extra)
 
 ## Link do jogo
-o endereço do GitHub Pages após publicar.
+## Link do jogo
+[Acesse o jogo clicando aqui](https://isabellecampos-cmyk.github.io/Web-1-jogo-palavras/)
